@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User</string>
+    <string name="tipo_1">TIPO 1</string>
+    <string name="todo">TODO</string>
+</resources>
